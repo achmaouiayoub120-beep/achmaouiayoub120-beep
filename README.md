@@ -1,182 +1,132 @@
-<!-- ===================== HEADER ===================== -->
 <div align="center">
+<img src="assets/banner.svg" width="100%" alt="Ayoub Achmaoui – Cybersécurité, Cloud et Développement Full-Stack"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:134e55,100:1F6F78&height=210&section=header&text=Ayoub%20Achmaoui&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybers%C3%A9curit%C3%A9%20%C2%B7%20Cloud%20%C2%B7%20Full-Stack&descSize=18&descAlignY=60" alt="Ayoub Achmaoui" width="100%"/>
-
-<a href="https://github.com/achmaouiayoub120-beep">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=640&height=40&lines=%C3%89tudiant+en+Cybers%C3%A9curit%C3%A9+%26+Technologies+Cloud;D%C3%A9veloppeur+Full-Stack+Web+%26+Mobile;Linux+%C2%B7+DevSecOps+%C2%B7+React+%C2%B7+Next.js;Recherche+un+stage+de+fin+d%27%C3%A9tudes+(PFE)" alt="Typing SVG"/>
-</a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/ayoub-achmaoui-47421133b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:achmaouiayoub120@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<img src="https://img.shields.io/badge/Stage_PFE-Disponible-2DD4BF?style=for-the-badge&logo=target&logoColor=white" alt="PFE"/>
-<img src="https://img.shields.io/badge/El_Jadida-Maroc-1F6F78?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localisation"/>
-
+<a href="https://www.linkedin.com/in/ayoub-achmaoui-47421133b"><img src="https://img.shields.io/badge/LinkedIn-Ayoub_Achmaoui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:achmaouiayoub120@gmail.com"><img src="https://img.shields.io/badge/Gmail-Me_contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://github.com/achmaouiayoub120-beep"><img src="https://img.shields.io/badge/GitHub-achmaouiayoub120--beep-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 
 <br/>
 
-<!-- ===================== TERMINAL ===================== -->
-## 🖥️ `whoami`
+<img src="assets/h-profil.svg" width="100%" alt="Profil"/>
 
 ```bash
 ayoub@el-jadida:~$ whoami
 Ayoub Achmaoui
 
 ayoub@el-jadida:~$ cat profile.txt
-role      : Étudiant Bachelor Cybersécurité & Technologies Cloud (CSTC)
-school    : Université Chouaïb Doukkali
-focus     : cybersécurité · cloud · DevSecOps · développement web & mobile
-experience: COSUMAR (IT) · Ziryab Tec Académie · HYDRAUMAC
-certified : Cisco · IBM · SAP
-looking_for: stage de fin d'études (PFE)
+role        : Étudiant Bachelor Cybersécurité & Technologies Cloud (CSTC)
+université  : Université Chouaïb Doukkali, El Jadida
+formation   : DUT Génie Informatique (EST Sidi Bennour, 2024-2026)
+focus       : cybersécurité · cloud · DevSecOps · développement web & mobile
+certifié    : Cisco · IBM · SAP
+recherche   : stage de fin d'études (PFE)
 
 ayoub@el-jadida:~$ echo $MOTTO
 "Construire des systèmes qui marchent, puis les sécuriser."
 ```
 
-<!-- ===================== STACK ===================== -->
-## ⚙️ Arsenal technique
+<br/>
+
+<img src="assets/h-experience.svg" width="100%" alt="Expérience"/>
+
+<table>
+<tr>
+<td width="200" align="center" valign="middle"><img src="assets/logos/hydraumac.svg" width="180" alt="HYDRAUMAC"/></td>
+<td valign="middle"><b>Stagiaire</b> · HYDRAUMAC<br/><sub>Juin – Juillet 2026</sub></td>
+</tr>
+<tr>
+<td width="200" align="center" valign="middle"><img src="assets/logos/ziryab.svg" width="180" alt="Ziryab Tec Académie"/></td>
+<td valign="middle"><b>Stagiaire</b> · Ziryab Tec Académie<br/><sub>Mai – Juin 2026</sub></td>
+</tr>
+<tr>
+<td width="200" align="center" valign="middle"><img src="assets/logos/cosumar.svg" width="180" alt="COSUMAR"/></td>
+<td valign="middle"><b>Stagiaire IT</b> · Groupe COSUMAR, usine d'El Jadida<br/><sub>Août 2025</sub>
+<ul>
+<li>Application mobile de présence par QR Code (<i>QR Code Présence</i>)</li>
+<li>Découverte de l'ERP SAP : modules MM, PP, PM, SGRH</li>
+<li>Digitalisation du suivi des présences</li>
+</ul></td>
+</tr>
+</table>
+
+<br/>
+
+<img src="assets/h-arsenal.svg" width="100%" alt="Arsenal technique"/>
 
 <table>
 <tr>
 <td width="33%" valign="top">
-
-**🔐 Cybersécurité &amp; Systèmes**
-
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github" alt="Systèmes"/>
-
-Sécurité des réseaux · Linux &amp; Windows · Virtualisation
-
+<b>Cybersécurité &amp; Systèmes</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=linux,windows,bash,git,github&perline=5" alt="Systèmes"/><br/>
+<sub>Sécurité des réseaux · Administration Linux et Windows · Virtualisation</sub>
 </td>
 <td width="33%" valign="top">
-
-**☁️ Cloud &amp; DevOps**
-
-<img src="https://skillicons.dev/icons?i=vercel,githubactions" alt="Cloud"/>
-
-Cloud Computing · DevOps · DevSecOps
-
+<b>Cloud &amp; DevOps</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=githubactions,vercel&perline=5" alt="Cloud"/><br/>
+<sub>Cloud Computing · DevOps · DevSecOps</sub>
 </td>
 <td width="33%" valign="top">
-
-**💻 Développement**
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,html,css" alt="Langages"/>
-
-Web · Mobile · APIs REST
-
+<b>Langages</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,html,css&perline=7" alt="Langages"/><br/>
+<sub>Web · Mobile · APIs REST</sub>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
-
-**🌐 Frameworks &amp; Données**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,supabase,mysql,postgres,sqlite" alt="Frameworks"/>
-
+<b>Frameworks &amp; Données</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,supabase,mysql,postgres,sqlite&perline=7" alt="Frameworks et données"/>
 </td>
 <td valign="top">
-
-**🏢 ERP**
-
-SAP ERP · MM · PP · PM · SGRH
-
+<b>ERP</b><br/><br/>
+<img src="https://img.shields.io/badge/SAP_ERP-MM_·_PP_·_PM_·_SGRH-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP ERP"/>
 </td>
 </tr>
 </table>
 
-<!-- ===================== PROJETS ===================== -->
-## 🚀 Projets à la une
+<br/>
+
+<img src="assets/h-projets.svg" width="100%" alt="Projets"/>
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 📬 Système de Gestion du Courrier
-*Projet de fin d'études · 2026*
-
-Plateforme web qui digitalise le courrier interne de l'EST : authentification sécurisée, rôles (admin, agent, archiviste), traçabilité et tableau de bord.
-
-`Web` `Gestion documentaire` `Sécurité`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏭 COSUMAR Smart Presence
-*Stage IT · 2025*
-
-Suivi des présences par QR Code avec enregistrement automatique et tableau de bord en temps réel, en environnement industriel.
-
-`TypeScript` `QR Code` `Dashboard`
-
-[👉 Voir le repo](https://github.com/achmaouiayoub120-beep/cosumar-smart-presence)
-
-</td>
+<td width="50%"><img src="assets/p-courrier.svg" width="100%" alt="Système de Gestion du Courrier"/></td>
+<td width="50%"><a href="https://github.com/achmaouiayoub120-beep/cosumar-smart-presence"><img src="assets/p-cosumar.svg" width="100%" alt="COSUMAR Smart Presence"/></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### ⚽ Plateforme CAN Morocco 2025
-*Full-stack · 2025*
-
-Consultation des matchs, billetterie interactive, espace bénévoles et tableau de bord administrateur.
-
-`Next.js` `React` `TypeScript` `Tailwind` `Supabase`
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 Smart Attendance
-*Mobile · 2025*
-
-Application mobile de présence par QR Code, multi-profils (étudiant, professeur, administrateur), suivi des absences et retards.
-
-`React Native` `Expo` `TypeScript`
-
-</td>
+<td width="50%"><img src="assets/p-can.svg" width="100%" alt="Plateforme CAN Morocco 2025"/></td>
+<td width="50%"><img src="assets/p-attendance.svg" width="100%" alt="Smart Attendance"/></td>
 </tr>
 </table>
 
-<!-- ===================== CERTIFICATIONS ===================== -->
-## 🏅 Certifications
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity_2026-049fd9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
-  <img src="https://img.shields.io/badge/IBM-Introduction_to_AI_2025-0f62fe?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM AI"/>
-  <img src="https://img.shields.io/badge/IBM-Web_Development_Fundamentals-0f62fe?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Web"/>
-  <img src="https://img.shields.io/badge/SAP-Cloud_Onboarding_for_SAP_Cloud_ERP_2025-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP"/>
+<img src="assets/h-certifications.svg" width="100%" alt="Certifications"/>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity_·_2026-049fd9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
+<img src="https://img.shields.io/badge/IBM-Introduction_to_AI_·_2025-0f62fe?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM AI"/>
+<img src="https://img.shields.io/badge/IBM-Web_Development_Fundamentals-0f62fe?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Web"/>
+<img src="https://img.shields.io/badge/SAP-Cloud_Onboarding_for_SAP_Cloud_ERP_·_2025-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP"/>
 </p>
 
-<!-- ===================== STATS ===================== -->
-## 📊 Activité
+<br/>
+
+<img src="assets/h-activite.svg" width="100%" alt="Activité"/>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=achmaouiayoub120-beep&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmaouiayoub120-beep&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Langages" height="165"/>
-
-</div>
-
-<!-- ===================== SNAKE ===================== -->
-<div align="center">
-
+<img src="https://github-readme-stats.vercel.app/api?username=achmaouiayoub120-beep&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2DD4BF&icon_color=2DD4BF" alt="Statistiques GitHub" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmaouiayoub120-beep&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2DD4BF" alt="Langages" height="165"/>
+<br/><br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/achmaouiayoub120-beep/achmaouiayoub120-beep/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/achmaouiayoub120-beep/achmaouiayoub120-beep/output/github-snake.svg"/>
-  <img alt="Snake contributions" src="https://raw.githubusercontent.com/achmaouiayoub120-beep/achmaouiayoub120-beep/output/github-snake.svg" width="100%"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/achmaouiayoub120-beep/achmaouiayoub120-beep/output/github-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/achmaouiayoub120-beep/achmaouiayoub120-beep/output/github-snake.svg"/>
+<img alt="Contributions" src="https://raw.githubusercontent.com/achmaouiayoub120-beep/achmaouiayoub120-beep/output/github-snake.svg" width="100%"/>
 </picture>
-
 </div>
 
-<!-- ===================== FOOTER ===================== -->
-<div align="center">
+<br/>
 
-### 🤝 Travaillons ensemble
-Ouvert aux stages PFE, collaborations et projets en cybersécurité, cloud et développement.
+<img src="assets/h-contact.svg" width="100%" alt="Contact"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6F78,100:0d1117&height=110&section=footer" alt="footer" width="100%"/>
-
-</div>
+<a href="mailto:achmaouiayoub120@gmail.com"><img src="assets/footer.svg" width="100%" alt="Construisons quelque chose de solide – achmaouiayoub120@gmail.com"/></a>
